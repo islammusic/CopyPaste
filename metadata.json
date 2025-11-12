@@ -1,0 +1,5 @@
+{
+  "name": "Simple Text Sharer",
+  "description": "A clean, minimalistic web app that allows an admin to share text for others to easily view and copy. Visitors can see the shared text and use a 'Copy' button to copy it to their clipboard.",
+  "requestFramePermissions": []
+}
